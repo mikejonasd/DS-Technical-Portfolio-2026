@@ -22,9 +22,6 @@ The first visualization is a bar-chart-based comparison of reconstructed image q
 ### Purpose
 This visualization helps compare reconstruction quality across baseline methods and proposed variants in a clear and interpretable way.
 
-### Files
-- `gen_graph.ipynb`
-
 ## Visualization 2: SAR–FMR Comparison Across Backbone Models
 The second visualization is a SAR–FMR curve comparing three face recognition backbone models:
 
