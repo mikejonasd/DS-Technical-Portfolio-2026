@@ -30,6 +30,7 @@ The second visualization is a SAR–FMR curve comparing three face recognition b
 - SwinTransformer_S
 
 The plot was generated in Python using score arrays stored in NumPy format and ROC-based computation.
+![SAR and FMR comparison](SAR_FMR_comparison.png)
 
 ### Purpose
 This visualization shows how the attack success rate (SAR) changes with respect to the false match rate (FMR) for different backbone models under template inversion attack evaluation.
