@@ -35,3 +35,6 @@ This repository presents technical work demonstrating programming, environment s
 ## Notes
 
 Each section includes code, explanation, execution steps and output examples.
+
+## Paper Link
+https://ieeexplore.ieee.org/abstract/document/11357908 
