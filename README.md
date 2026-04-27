@@ -28,9 +28,9 @@ This repository presents technical work demonstrating programming, environment s
 
 - Python
 - Linux
-- Docker
-- Pandas
+- Numpy
 - Matplotlib
+- Sklearn
 
 ## Notes
 
