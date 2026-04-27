@@ -48,5 +48,6 @@ Example output structure:
 - `preprocess.py`
 
 ## How to Run
+Before running the file in the testing_dataset should not be in it own unique folder but instead stay in one whole folder
 ```bash
 python preprocess.py --data_dir testing_dataset --coord_dir testing_dataset_coord --unmatched_dir testing_dataset_unmatch
