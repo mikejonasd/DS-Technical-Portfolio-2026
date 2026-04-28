@@ -4,12 +4,10 @@
 This section demonstrates the ability to use Python for research-oriented data visualization in a face recognition and template inversion study. The visualizations were created to compare reconstruction quality across methods and to analyze SAR–FMR behavior across different backbone models.
 
 ## Note
-The data that is used to analyze this graph is too big for github so i did not upload it here
+"The raw score files (combined_sar.npy, combined_impostor.npy) used for this analysis are approximately 757 MB per model and exceed GitHub's file size limit. Therefore, the data files have not been included in this repository. The visualization code is fully provided and can be reproduced with the appropriate data.
 
 ## Visualization 1: Reconstructed Image Quality Comparison
 The first visualization is a bar-chart-based comparison of reconstructed image quality across multiple methods. It includes two parts:
-
-
 
 1. **Comparison of Reconstructed Image Quality**  
    This figure compares multiple methods using three evaluation metrics:
