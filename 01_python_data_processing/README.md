@@ -48,6 +48,17 @@ Example output structure:
 - `preprocess.py`
 
 ## How to Run
-Before running the file in the testing_dataset should not be in it own unique folder but instead stay in one whole folder
+Before running, ensure your images are placed directly inside `testing_dataset/` 
+as individual files — not inside subfolders.
+
+**To set up the test dataset:**
+1. Take the image files from `testing_dataset/00000/` (or any subfolder)
+2. Move them directly into `testing_dataset/`
+3. Delete the now-empty subfolder
+
+> You can also rename the image files beforehand to test the renaming 
+> functionality of the preprocessing pipeline.
+
+**Then run:**
 ```bash
 python preprocess.py --data_dir testing_dataset --coord_dir testing_dataset_coord --unmatched_dir testing_dataset_unmatch
